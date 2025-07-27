@@ -1,0 +1,7 @@
+.env
+out/
+cache/
+*.swp
+*.swo
+lib/
+.DS_Store
